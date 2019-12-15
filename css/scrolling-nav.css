@@ -16,6 +16,8 @@ section {
 #header_wrap{
     height:1em;   
 }
+
+
 .wrap{max-width: 1024px;}
 .bg-shitty{background-color:#ED3226;}
 .shitty-red{border-bottom: 6px solid #ED3226;}
@@ -113,5 +115,11 @@ margin: 5em;
 
 #lore{
 width:100px;    
+
+}
+
+@media screen and (max-width: 768px){
+
+#header_wrap{ display:none;}
 
 }
