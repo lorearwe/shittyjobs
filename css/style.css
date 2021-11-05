@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'insignia';
+    src: url('insignia-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  color: #5a5a5a;
+}
+
+.carousel {
+  margin-bottom: 4rem;
+}
+
+/* Declare heights because of positioning of img element */
+.carousel-item {
+  height: 32rem;
+}
+.carousel-item > img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  height: 32rem;
+}
+
+.carousel-indicators button{
+  width: 0.75rem !important;
+  height: 0.75rem !important;
+  border-radius: 50%;
+  margin-right: 2% !important;
+}
