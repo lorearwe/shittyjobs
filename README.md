@@ -1,5 +1,5 @@
 ## Source code for a school assignement
-Done by me in 2019 and reviewed in 2021 because previous code was and incredible mess.
+Done by me in 2019 and reviewed in 2021 because previous code was an incredible mess.
 The project started with a bootstrap template which I cleaned up by changing the whole setup into those pretty remote links.
 The rest is just vanilla CSS and HTML.
 
