@@ -71,7 +71,7 @@ margin-top:1.5em;
   padding-bottom: 2em;
 }
 
-.carousel-indicators button{
+.carousel-indicators li{
   width: 0.75rem !important;
   height: 0.75rem !important;
   border-radius: 50%;
